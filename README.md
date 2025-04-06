@@ -7,6 +7,8 @@ To learn how you can use it to fine tune your own Gemma 3 models, please refer t
 
 ## Repo Structure
 
+![tree-structure](https://github.com/user-attachments/assets/65cbffc8-3770-45df-abf8-40527a729638)
+
 ## Usage
 
 There are two ways to use this app. 
