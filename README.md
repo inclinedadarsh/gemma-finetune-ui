@@ -5,11 +5,17 @@ I have made this repo has an exploration for the project [Gemma Model Fine-tunin
 
 To learn how you can use it to fine tune your own Gemma 3 models, please refer to the [Usage](#usage) section.
 
+## Demo
+
+YouTube video: https://youtu.be/NKV788bQEgE
+
 ## Repo Structure
 
 ![tree-structure](https://github.com/user-attachments/assets/65cbffc8-3770-45df-abf8-40527a729638)
 
 ## Usage
+
+YouTube video: https://youtu.be/KKHP4wLV_I8
 
 There are two ways to use this app. 
 
