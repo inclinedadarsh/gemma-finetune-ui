@@ -16,12 +16,12 @@ Here's a more detailed view of the repo structure:
 
 - `app/`: Contains the gradio app.
   - `app.py`: The main app.
-    - [`gemma-finetune-gradio.ipynb`](./notebooks/app/gemma-finetune-gradio.ipynb)
-    - [`merging_model_gradio.ipynb`](./notebooks/app/merging_model_gradio.ipynb)
   - `conversion.py`: A tool to convert a huggingface dataset to a format that can be used by the app.
   - `inference.py`: A tool to use the fine-tuned model for inference.
 - `notebooks/`: Contains the notebooks used to explore the fine-tuning process.
   - `app/`: Contains the notebook for the gradio app. You can open it in Google Colab by clicking on the `Open in Colab` button.
+    - [`gemma-finetune-gradio.ipynb`](./notebooks/app/gemma-finetune-gradio.ipynb): Notebook to start the main app in Google Colab.
+    - [`merging_model_gradio.ipynb`](./notebooks/app/merging_model_gradio.ipynb): Notebook to start the conversion app in Google Colab.
   - `failed-attempts/`: Contains the notebooks of my failed attempts at fine-tuning the model.
   - `fine_tuning/`: Contains the notebooks of my successful attempts at fine-tuning the model.
     - [`gemma_keras.ipynb`](./notebooks/fine_tuning/gemma_keras.ipynb): A notebook that uses the Keras API to fine-tune the model.
