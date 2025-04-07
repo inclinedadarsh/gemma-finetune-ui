@@ -16,6 +16,8 @@ Here's a more detailed view of the repo structure:
 
 - `app/`: Contains the gradio app.
   - `app.py`: The main app.
+    - [`gemma-finetune-gradio.ipynb`](./notebooks/app/gemma-finetune-gradio.ipynb)
+    - [`merging_model_gradio.ipynb`](./notebooks/app/merging_model_gradio.ipynb)
   - `conversion.py`: A tool to convert a huggingface dataset to a format that can be used by the app.
   - `inference.py`: A tool to use the fine-tuned model for inference.
 - `notebooks/`: Contains the notebooks used to explore the fine-tuning process.
