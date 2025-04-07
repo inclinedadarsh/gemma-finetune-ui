@@ -1,13 +1,12 @@
 # Gemma Finetune UI
 
 ## Overview
+
+**Demo video:**: https://youtu.be/NKV788bQEgE
+
 I have made this repo has an exploration for the project [Gemma Model Fine-tuning UI](https://gist.github.com/dynamicwebpaige/92f7739ad69d2863ac7e2032fe52fbad#11-gemma-model-projects-). It includes a _working prototype_ of a gradio interface that can be used to fine-tune Gemma 3 models. Other than that, it also includes all the notebooks and code that I have used to experiment and explore the fine-tuning process.
 
 To learn how you can use it to fine tune your own Gemma 3 models, please refer to the [Usage](#usage) section.
-
-## Demo
-
-YouTube video: https://youtu.be/NKV788bQEgE
 
 ## Repo Structure
 
